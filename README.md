@@ -33,7 +33,7 @@ O projeto foi criado seguindo uma abordagem de **"documentação em cascata"**, 
 
 
 🔗 **Acesse o projeto online:**
-👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/APS---Projeto-SantinhoEleitoral-2024/)
+👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/ProjetoAPS-SantinhoEleitoral-2024/)
 
 ---
 
